@@ -1,0 +1,14 @@
+{
+  "name": "db_connection",
+  "version": "1.0.0",
+  "description": "Project for mongo database connection with javascript code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anandrao Shingade",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.1.1"
+  }
+}
